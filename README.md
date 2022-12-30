@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-《关于我在某大厂被随机分配为前端工作一年后做起了前端架构师那些事》 
+<!-- 《关于我在某大厂被随机分配为前端工作一年后做起了前端架构师那些事》 
 - [序(草稿)](/blogs/关于我在某大厂被随机分配为前端工作一年后做起了前端架构师那些事/00.md)
 - [定义 XX 项目(草稿)](/blogs/关于我在某大厂被随机分配为前端工作一年后做起了前端架构师那些事/01.md)
 - [关于 TypeScript 的工作(草稿)](/blogs/关于我在某大厂被随机分配为前端工作一年后做起了前端架构师那些事/02.md)
-
+ -->
 <!--
 **Jiapeiyao/Jiapeiyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
